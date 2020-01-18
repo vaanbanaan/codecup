@@ -1,0 +1,2 @@
+# CodeCup
+CodeCup programming contest
