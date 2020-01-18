@@ -1,0 +1,732 @@
+Oh
+Lh
+Lg-Jf
+Kg-Mg
+Ki-Kf
+Mf-If
+Hf-Kh
+Jh-Ig
+Ii-Hj
+Hh-Ie
+Id-Jg
+He-Hg
+Gg-Jj
+Hi-Li
+Mj-Je
+Gh-Kd
+Lc-Jd
+Jc-Gf
+Ih-Fh
+Gi-Ji
+Gj-Gk
+Ij-Jk
+Ke-Il
+Kj-Jl
+Jm-Ll
+Kl-Lk
+Lj-Kk
+Mk-Nl
+Ik-Mm
+Nn-Ln
+Ok-Ko
+Jp-Lo
+Lm-Nj
+Mo-Lf
+Kc-Ic
+Im-Hm
+Oi-Oj
+Nc-Mc
+Fk-El
+Fl-Fo
+Gn-Ni
+Nk-Fi
+Ff-Ee
+Ml-Jo
+Ho-In
+Hn-Ek
+En-Ei
+Ej-Gl
+Kp-Fj
+Dh-Ci
+Lp-Di
+Bi-Ip
+Ef-Fg
+Hd-Cj
+Eh-Ch
+Ck-Cg
+Cf-Df
+Fd-Bh
+Ai-Ed
+Fe-Hc
+Fc-Fb
+Eg-Ge
+Dl-Fn
+Nf-Nd
+Ld-Dj
+Ag-Me
+Oe-La
+Ah-Oc
+Pb-Af
+Eb-Of
+Aj-Ak
+Op-Mn
+Np-Mp
+Gd-Da
+Ng-Ma
+Ka-Md
+Mb-Pi
+Dm-Em
+Do-Jn
+Kn-Dn
+Io-Gm
+Eo-Pl
+Pk-Bk
+Be-Ad
+Cd-Fa
+Ea-Mi
+Ab-De
+Dd-Pa
+Ce-Cb
+Lb-Bf
+Kb-Nb
+Jb-Ib
+Pc-Od
+Pf-Pe
+Co-Bo
+Bm-Ep
+Cl-An
+Cn-Cm
+Fp-Ao
+Am-Ga
+Oa-Ap
+Ja-Pm
+Pp-Cc
+Dp-Bd
+Oo-On
+Ec-Dc
+Po-Pn
+Pj-Ph
+Pg-Og
+Pd-Nh
+Om-Ol
+Ob-Na
+No-Nm
+Ne-Le
+Mh-Ha
+Km-Hp
+Ia-Hb
+Hl-Hk
+Gp-Go
+Gc-Gb
+Fm-Dk
+Dg-Bg
+Db-Ca
+Cp-Bp
+Bn-Bl
+Bj-Al
+Bc-Bb
+Ba-Aa
+Ae-Ac
+Quit
+https://www.codecup.nl/showgame.php?ga=152229
+	Black:		White:
+Marco Meijer	Steven Kroon
+Status:  	DRAW	DRAW
+Game pts:	50	50
+
+
+Kj
+Li
+Jg-Lj
+Jf-Lk
+Lh-Mi
+Jh-Ji
+Ki-Kk
+Nh-Jl
+Im-Ll
+Lm-Kh
+Mg-Jj
+Jd-Je
+Nf-Oe
+Lf-Ke
+Kf-Mf
+Hf-If
+Ig-Ge
+Lg-Kg
+Le-Ld
+Pj-Oi
+Md-Nc
+Quit
+Ih
+https://www.codecup.nl/showgame.php?ga=151255
+Status:  	WIN	LOSE
+Game pts:	93	7
+	Black:			White:
+Vytautas Gruslys	Steven Kroon
+
+
+Start
+Zz
+Jh-Gh
+Ij-Ih
+Jg-Kg
+Ji-Lg
+Jf-Je
+Ig-Gi
+Ki-Hf
+Li-Mi
+Gg-Kf
+Mh-Id
+Hc-Ke
+Kh-Kd
+Kc-If
+Hg-Fg
+Kj-Ef
+De-Lc
+Mb-Ff
+Gf-Jk
+Lj-Mk
+Mj-Nk
+Lk-Ni
+Lh-Nh
+Quit
+Ll
+https://www.codecup.nl/showgame.php?ga=151148
+	Black:		White:
+Steven Kroon	Jeroen Op de Beek
+Status:  	LOSE	WIN
+Game pts:	8	92
+
+
+Hh
+Ih
+Hk-Zz
+Ji-Gj
+Hg-Gf
+Fi-Hj
+Hi-Gh
+Kj-Lk
+Gg-Gi
+Ig-Gk
+Gl-Jg
+Ii-Ij
+Fj-Fh
+Ki-Li
+Ik-Fg
+Eh-Eg
+Df-Lj
+Lh-Jj
+Kh-Ll
+Lm-Kg
+Mh-Jh
+Mg-Kk
+Mf-Mm
+Nn-Mi
+Nh-Oh
+Nf-Oe
+Ne-Lg
+Ng-Nd
+Quit
+Ni
+https://www.codecup.nl/showgame.php?ga=152464
+Status:  	WIN	LOSE
+Game pts:	91	9
+	Black:		White:
+Tomek Czajka	Arthur Ball
+
+
+Start
+Zz
+Jh-Gh
+Ij-Ih
+Ig-Gj
+Jg-Gi
+Gg-Hg
+Ff-Ee
+Hf-Gk
+Gl-Ki
+Lf-El
+Fk-Me
+Jf-Je
+If-Kf
+Quit
+Gf
+https://www.codecup.nl/showgame.php?ga=152503
+	Black:		White:
+Steven Kroon	Arthur Ball
+Status:  	LOSE	WIN
+Game pts:	4	96
+
+
+Ej
+Fi
+Di
+Quit
+Di-Fk
+Eh-Ek
+Fh-Dk
+Gk-Fj
+Gh-Dh
+Gi-Gg
+Eg-Fl
+Fm-Bk
+Ck-Df
+Ef-Ei
+Fg-Cg
+Bf-Bh
+Hi-Ij
+Quit
+De
+https://www.codecup.nl/showgame.php?ga=151929
+	Black:			White:
+Marcel Vlastuin	    Steven Kroon
+Status:  	WIN	LOSE
+Game pts:	96	4				
+
+
+Cc
+Cd
+Ce
+Quit
+Ce-Dd
+Bd-Df
+Bc-De
+Dc-Ec
+Be-Bf
+Dg-Ef
+Cf-Eh
+Ci-Cg
+Ae-Fg
+Gh-Ee
+Db-Ea
+Ba-Bb
+Ed-Fd
+Gc-Bh
+Quit
+https://www.codecup.nl/showgame.php?ga=152366
+Status:  	LOSE	WIN
+Game pts:	5	95
+	Black:	White:
+Henk Koops	Steven Kroon
+
+
+Gj
+Ji
+Jg
+Quit
+Jg-Hi
+Gh-Ii
+Gi-Gg
+Hh-Ig
+Ij-Ki
+Li-Jh
+Gk-Gl
+Lj-Ie
+Fh-Ih
+If-Hf
+Ge-Jd
+Kc-Je
+Kh-Mj
+Quit
+He
+https://www.codecup.nl/showgame.php?ga=152400
+Status:  	WIN	LOSE
+Game pts:	96	4
+	Black:		White:
+Ludo Pulles	    Steven Kroon
+
+
+Lf
+Ke
+Kd
+Quit
+Kd-Hg
+Kg-Nd
+Le-Ld
+Jf-Ng
+Lh-Mi
+Jh-Ii
+Jg-Md
+Ji-Jj
+Quit
+Je
+https://www.codecup.nl/showgame.php?ga=150434
+	Black:			White:
+Marcel Vlastuin     Steven Kroon
+Status:  	WIN	LOSE
+Game pts:	98	2
+
+
+Cc
+Cd
+Ce-Dd
+Bd-Df
+Bc-Ee
+Db-Fd
+Ea-Ae
+Cg-Ge
+Be-Gc
+Hb-Gd
+Bf-Ed
+Quit
+https://www.codecup.nl/showgame.php?ga=152328
+Status:  	LOSE	WIN
+Game pts:	3	97
+	Black:	White:
+Henk Koops	Arthur Ball
+
+
+Ig
+He
+Id-Zz
+If-Gd
+Hd-Hc
+Je-Fe
+Ib-Hg
+Ie-Ge
+Le-Ke
+Jc-Ef
+Dg-Kd
+Jf-Jb
+Lb-Kg
+Jg-Jd
+Kh-Li
+Gc-Fb
+Kf-Md
+Ld-Lf
+Jh-Ji
+Ih-Hi
+Hh-Gh
+Quit
+Lh
+https://www.codecup.nl/showgame.php?ga=152573
+	Black:			White:
+Jeroen Op de Beek	Tomek Czajka
+Status:  	WIN	LOSE
+Game pts:	93	7
+
+
+Hh
+Ih
+Hk-Zz
+Ji-Ii
+Hg-Gf
+Jj-Gg
+Kj-Lk
+Jk-Jh
+Hj-Ij
+Il-Li
+Jl-Jm
+Kl-Ll
+Lj-Ff
+Ee-Hf
+Gl-Hl
+Hm-Gn
+Mj-Nj
+If-Ge
+Gd-Ig
+Fd-Ki
+Quit
+https://www.codecup.nl/showgame.php?ga=152572
+Status:  	LOSE	WIN
+Game pts:	6	94
+	Black:		White:
+Tomek Czajka	Jeroen Op de Beek
+
+
+Gj
+Ji
+Jg-Hi
+Gh-Ii
+Gi-Gg
+Hh-Ig
+Ij-Ki
+Li-Jh
+Gk-Gl
+Lj-Ie
+Fh-Ih
+If-Hf
+Ge-Jd
+Kc-Je
+Kh-Mj
+Quit
+He
+https://www.codecup.nl/showgame.php?ga=152400
+Status:  	WIN	LOSE
+Game pts:	96	4
+	Black:		White:
+Ludo Pulles	    Steven Kroon
+
+
+Start
+Zz
+Ee-Ff
+Ih-Ij
+Gh-Fh
+Jh-Kh
+Hj-Gk
+Kg-Lf
+Ji-Hg
+Fg-Jk
+Kl-Ik
+Hk-Hl
+Ki-Im
+Jn-Gm
+Fn-Il
+In-Fj
+Ei-Gn
+Hm-Gl
+Go-Gj
+Quit
+https://www.codecup.nl/showgame.php?ga=152574
+Status:  	WIN	LOSE
+Game pts:	94	6
+	Black:		White:
+Steven Kroon	Kuba Osekowski
+
+
+Start
+Zz
+Jh-Gh
+Ig-Ij
+Fg-Hj
+Gj-Kj
+Lj-Kl
+Jk-Ki
+Kk-Hk
+Lk-Hl
+Hm-Ik
+Gm-Lh
+Quit
+https://www.codecup.nl/showgame.php?ga=151928
+	Black:		White:
+Steven Kroon	Marcel Vlastuin
+Status:  	WIN	LOSE
+Game pts:	97	3				
+
+
+Ig
+He
+Id-If
+Gd-Hd
+Hg-Jg
+Hc-Kh
+Li-Kf
+Fe-Ef
+Ih-Gf
+Hf-Kg
+Ki-Jh
+Ji-Ii
+Kj-Lk
+Mi-Ni
+Ib-Ja
+Lf-Ke
+Kd-Hj
+Gk-Ie
+Je-Jf
+Mh-Gc
+Quit
+https://www.codecup.nl/showgame.php?ga=152036
+Status:  	LOSE	WIN
+Game pts:	6	94
+	Black:			White:
+Jeroen Op de Beek   Leopold Tschanter
+
+
+Start
+Zz
+Ig-Ij
+Jh-Gh
+Fg-Hj
+Kj-Gi
+Ki-Gj
+Fj-Gg
+Hf-Gf
+Quit
+https://www.codecup.nl/showgame.php?ga=152651
+Status:  	WIN	LOSE
+Game pts:	98	2
+	Black:		White:
+Steven Kroon	Test Player A
+
+
+Kj
+Li
+Jg-Jh
+Ih-Lk
+Ig-Lj
+Lh-Ll
+Lm-Kg
+Ii-If
+Hi-Kf
+Ji-Ki
+Ij-Ik
+Jk-Kl
+Hg-Gf
+Fg-Gh
+Quit
+Gg
+https://www.codecup.nl/showgame.php?ga=150502
+	Black:			White:
+Vytautas Gruslys	Steven Kroon
+Status:  	WIN	LOSE
+Game pts:	96	4
+
+
+Start
+Zz-Jj
+Jh-Gh
+Ig-Ij
+Fg-Hj
+Gj-Kj
+Lj-Kl
+Jk-Ki
+Kk-Mg
+Lh-Ik
+Gi-Hl
+Gm-Hk
+Hm-Jm
+Jf-Ke
+Quit
+Fj
+https://www.codecup.nl/showgame.php?ga=149019
+	Black:		White:
+Steven Kroon	Marcel Vlastuin
+Status:  	LOSE	WIN
+Game pts:	5	95
+
+Hg
+Ig
+Hh-Zz
+Hf-Jh
+Ge-Ih
+Kh-Ji
+Kj-Jg
+Jj-Ki
+Hi-Ij
+Fd-Ec
+Fe-Ff
+Ee-He
+De-Ce
+Gh-Ef
+Jf-Df
+Cf-Ed
+Gf-Gg
+If-Kf
+Ie-Eg
+Fh-Hd
+Id-Ic
+Dg-Eh
+Ei-Dd
+Fb-Fc
+Hc-Mi
+Li-Mh
+Mj-Lj
+Nk-Ol
+Nl-Nm
+Gb-Hb
+Gc-Gd
+Je-Fa
+Eb-Nh
+Og-Lf
+Ke-Kg
+Me-Le
+Md-Ld
+Lg-Mc
+Db-Cb
+Lc-Ne
+Fi-Gi
+Fj-Fk
+Gk-Dh
+Hl-Im
+Jl-Il
+Ik-Nf
+Ng-Lk
+Km-Ln
+Lm-Ml
+On-Ci
+Bj-Hj
+Ii-Mg
+Oi-Oh
+Kk-Hk
+Mm-Ll
+Kn-Kl
+Lh-Gl
+Fm-Hm
+In-Ej
+Di-Gn
+Fo-Gm
+Go-Eo
+Of-Kd
+Bd-Bf
+Ag-Jc
+Ib-Dj
+Fl-Fn
+Jo-Jm
+Io-Ho
+Oe-Dn
+En-Dm
+Dk-El
+Cn-Lo
+Mn-Cc
+Od-Oc
+Bc-Cd
+Ca-Cm
+Bl-Bk
+Ba-Be
+Ah-Ai
+Ad-Ea
+Ae-Af
+Aa-Bm
+Ab-Ac
+Am-Nc
+Nb-Dp
+Do-Ha
+Ga-Ao
+Lb-Mb
+Kc-Jd
+Cj-Ep
+Fp-Jp
+Bg-Kp
+Lp-Mo
+No-La
+Ka-Pa
+Na-Pe
+Pc-Ph
+Pf-Pk
+Pj-Pl
+Pn-Ap
+Bp-Bn
+Mk-Dl
+Ek-Gp
+Hp-Aj
+Oj-Mp
+Ok-Ak
+Pd-Al
+Pi-An
+Pm-Bb
+Oa-Bh
+Da-Bi
+Ia-Bo
+Ja-Cg
+Ma-Ch
+Jb-Ck
+Kb-Cl
+Dc-Co
+Mf-Cp
+Fg-Em
+Ni-Gj
+Nj-Hn
+Jk-Ip
+Jn-Ko
+Nn-Nd
+Oo-Np
+Po-Ob
+Op-Om
+Pp-Pb
+Quit
+https://www.codecup.nl/showgame.php?ga=148953
+	Black:		White:
+Andor Michels	Luisa Lamprea
+Status:  	DRAW	DRAW
+Game pts:	50	50
