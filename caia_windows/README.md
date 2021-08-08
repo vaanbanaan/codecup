@@ -19,10 +19,10 @@ To compile the caiaio source code you also need Cygwin or Windows Subsystem for 
 I could not get it to run properly in Windows directly (on my Windows machines)
 ## win_caiaio
 Therefore I've made a caiaio port for windows: win_caiaio  
-Source code: [](../win-caiaio)  
+Source code: (../win-caiaio)  
 
 # Download caia spaghetti for windows (64bit)
-Download the spaghetti zip [](caia_spaghetti_windows_64.zip), unpack anywhere and run `win_caiaio.exe` in the `spaghetti\usr\` folder
+Download the spaghetti zip (caia_spaghetti_windows_64.zip), unpack anywhere and run `win_caiaio.exe` in the `spaghetti\usr\` folder
 
 ### Do it yourself
 (Download from the official sites and compile the sources)
@@ -66,5 +66,5 @@ Netherlands: <https://ftp.snt.utwente.nl/pub/software/cygwin/>
 Extract the dll's and place them in the `spaghetti\usr\` folder  
 
 #### win-caiaio
-- Download the source [](../win-caiaio)
+- Download the source (../win-caiaio)
 - Compile and copy the executable to the `spaghetti\usr\` folder
