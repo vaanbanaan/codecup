@@ -1,8 +1,8 @@
 # CodeCup 2022 caia-spaghetti-win64: caia spaghetti for Windows
 #### (without Cygwin or WSL)
 ## General caia information
-For the CodeCup 2022 spaghetti competition the CodeCup team has developed a caia package to test your program at home
-Caia isn't an abbreviaton, it's version 3 (***c***) first used in the CodeCup 2005 L***a***m***i***str***a*** game.
+For the CodeCup 2022 spaghetti competition the CodeCup team has developed a caia package to test your program at home\
+Caia isn't an abbreviaton, it's version 3 (***c***) first used in the CodeCup 2005 L***a***m***i***str***a*** game.\
 The caia software contains source code for:
 - caiaio
 - manager
@@ -22,8 +22,8 @@ Therefore I've made a caiaio port for windows: win-caiaio
 Source code: (../win-caiaio)  
 
 # Download caia_spaghetti_win64: caia spaghetti for Windows (64bit)
-Download the spaghetti zip (caia_spaghetti_win64.zip), unpack anywhere and run `win-caiaio.exe` in the `spaghetti\usr\` folder
-The CodeCup team has developed a referee which logs the played games, so you can watch them afterwards in your browser
+Download the spaghetti zip (caia_spaghetti_win64.zip), unpack anywhere and run `win-caiaio.exe` in the `spaghetti\usr\` folder\
+The CodeCup team has developed a referee which logs the played games, so you can watch them afterwards in your browser\
 (played games logs are in the `spaghetti\refereelogs\` folder)
 
 ### Do it yourself
