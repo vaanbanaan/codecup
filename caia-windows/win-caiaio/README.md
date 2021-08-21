@@ -23,4 +23,4 @@ CodeCup caiaio Windows port
   Somehow this leaves the console in the wrong mode when run in a command console\
   Cursor arrows / Escape keys won't work anymore (are displayed as terminal sequences)
   - Workaround\
-    Run win-caiaia in a Powershell console
+    Run win-caiaio in a Powershell console
