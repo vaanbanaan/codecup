@@ -181,24 +181,37 @@ BOOL read_from_timed_process(struct process_ctx *process_ctx, unsigned int wait_
 
 BOOL get_firsterror(struct process_ctx *process_ctx, unsigned int wait_msec, unsigned long *length)
 {
+    struct stderr_async_ctx *stderr_async_ctx = process_ctx->stderr_async_ctx;
 	BOOL bSuccess = TRUE;
 	DWORD dwWait;
-
 	*length = 0;
+
+	stderr_async_ctx->stOverlapped.hEvent =
+            CreateEvent(NULL,    // default security attribute, NOT inherited
+                        TRUE,    // manual reset event
+                        FALSE,   // initial state: nonsignaled
+                        NULL);   // unnamed event object
+
+	if (stderr_async_ctx->stOverlapped.hEvent == INVALID_HANDLE_VALUE) {
+        return FALSE;
+	}
 	if (ResumeThread(process_ctx->process_info.hThread) != 1) {
 		return FALSE;
 	}
-	ReadFile(process_ctx->read_stderr, process_ctx->stderr_async_ctx->pipe_buffer, PIPE_SIZE, NULL, &process_ctx->stderr_async_ctx->stOverlapped);
-	dwWait = WaitForSingleObject(process_ctx->stderr_async_ctx->stOverlapped.hEvent, wait_msec);
+	ReadFile(process_ctx->read_stderr, stderr_async_ctx->pipe_buffer, PIPE_SIZE, NULL, &stderr_async_ctx->stOverlapped);
+	dwWait = WaitForSingleObject(stderr_async_ctx->stOverlapped.hEvent, wait_msec);
 	SuspendThread(process_ctx->process_info.hThread);
-	CancelIo(process_ctx->stderr_async_ctx->stOverlapped.hEvent);
+	CancelIo(stderr_async_ctx->stOverlapped.hEvent);
 	if (dwWait == WAIT_OBJECT_0) {
-		ResetEvent(process_ctx->stderr_async_ctx->stOverlapped.hEvent);
+		ResetEvent(stderr_async_ctx->stOverlapped.hEvent);
 		bSuccess = GetOverlappedResult(process_ctx->read_stderr,
-										&process_ctx->stderr_async_ctx->stOverlapped,
+										&stderr_async_ctx->stOverlapped,
 										length,
 										FALSE);
 	}
+
+    CloseHandle(stderr_async_ctx->stOverlapped.hEvent);
+    stderr_async_ctx->stOverlapped.hEvent = INVALID_HANDLE_VALUE;
 	// getoverlappedresult can fail with ERROR_MORE_DATA
 	// buffer should be big enough, client probably sent too much data
 	if (!bSuccess || PIPE_SIZE <= *length) {
@@ -627,4 +640,27 @@ char check_alive(struct process_ctx *process_ctx)
 	process_ctx->state = PROCESS_ACTIVE;
 
 	return TRUE;
+}
+
+
+void reset_console_mode()
+{
+    // WIP, not implemented yet
+    // Somehow win-caiaio + Cygwin frankenstein referee / players configuration
+    // ends with wrong console mode (command console only)
+	HANDLE hstdout;
+	DWORD fdwMode;
+
+	hstdout = GetStdHandle(STD_OUTPUT_HANDLE);
+	if (hstdout == INVALID_HANDLE_VALUE) {
+		return;
+	}
+    if (!GetConsoleMode(hstdout, &fdwMode)) {
+		return;
+	}
+
+    fdwMode &= ~ENABLE_VIRTUAL_TERMINAL_PROCESSING;
+    SetConsoleMode(hstdout, fdwMode);
+
+	return;
 }
