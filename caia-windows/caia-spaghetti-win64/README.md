@@ -25,7 +25,7 @@ Source code: (../win-caiaio)
 # Download caia-spaghetti-win64
 Download [caia-spaghetti-win64.zip](https://github.com/vaanbanaan/codecup/raw/master/caia-windows/caia-spaghetti-win64/caia-spaghetti-win64.zip), unpack anywhere and run `win-caiaio.exe` in the `spaghetti\usr\` folder\
 The CodeCup team has developed a referee which logs the played games, so you can watch them afterwards in your browser\
-(played games logs are in the `spaghetti\refereelogs\` folder)
+(played games html logs are in the `spaghetti\refereelogs\` folder)
 
 ### Do it yourself
 (Download from the official sites and compile the sources)
