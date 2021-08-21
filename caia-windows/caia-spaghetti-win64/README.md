@@ -1,4 +1,5 @@
-# CodeCup 2022 caia-spaghetti-win64: caia spaghetti for Windows
+# caia-spaghetti-win64
+## CodeCup 2022 caia spaghetti for Windows
 #### (without Cygwin or WSL)
 ## General caia information
 For the CodeCup 2022 spaghetti competition the CodeCup team has developed a caia package to test your program at home\
