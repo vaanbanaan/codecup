@@ -1,0 +1,1 @@
+# CodeCup caia for Windows
