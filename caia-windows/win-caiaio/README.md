@@ -22,5 +22,5 @@ CodeCup caiaio Windows port
   The referee and players are compiled by the CodeCup team for Cygwin\
   Somehow this leaves the console in the wrong mode when run in a command console\
   Cursor arrows / Escape keys won't work anymore (are displayed as terminal sequences)
-  - Workaround
+  - Workaround/
     Run win-caiaia in a Powershell console
