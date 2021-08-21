@@ -22,8 +22,8 @@ I could not get it to run properly in Windows directly (on my Windows machines)
 Therefore I've made a caiaio port for windows: win-caiaio  
 Source code: (../win-caiaio)  
 
-# Download caia_spaghetti_win64: caia spaghetti for Windows (64bit)
-Download the spaghetti zip (caia_spaghetti_win64.zip), unpack anywhere and run `win-caiaio.exe` in the `spaghetti\usr\` folder\
+# Download caia-spaghetti-win64
+Download the spaghetti zip (caia-spaghetti-win64.zip), unpack anywhere and run `win-caiaio.exe` in the `spaghetti\usr\` folder\
 The CodeCup team has developed a referee which logs the played games, so you can watch them afterwards in your browser\
 (played games logs are in the `spaghetti\refereelogs\` folder)
 
@@ -38,7 +38,7 @@ The CodeCup team has developed a referee which logs the played games, so you can
 
 #### Move programs (Cygwin workaround)
 For the compiled referee and test players there's still a need for some Cygwin dll's  
-Because the programs are not used as intended we also have to use a workaround.
+Because the programs are not used as intended a workaround is needed.
 - add a `usr` folder in the `spaghetti` folder
 - Move the files in the `bin` folder to `usr`
 - Compile the manager (`spaghetti\src\manager\`) and copy to `spaghetti\usr\` folder  
