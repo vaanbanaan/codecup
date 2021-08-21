@@ -23,7 +23,7 @@ Therefore I've made a caiaio port for windows: win-caiaio
 Source code: (../win-caiaio)  
 
 # Download caia-spaghetti-win64
-Download the spaghetti zip (caia-spaghetti-win64.zip), unpack anywhere and run `win-caiaio.exe` in the `spaghetti\usr\` folder\
+Download [caia-spaghetti-win64.zip](https://github.com/vaanbanaan/codecup/blob/master/caia-windows/caia-spaghetti-win64/caia-spaghetti-win64.zip), unpack anywhere and run `win-caiaio.exe` in the `spaghetti\usr\` folder\
 The CodeCup team has developed a referee which logs the played games, so you can watch them afterwards in your browser\
 (played games logs are in the `spaghetti\refereelogs\` folder)
 
