@@ -5,22 +5,18 @@ CodeCup caiaio Windows port
 - Accepts all CodeCup caia project commands (including firsterror)
 - Support for batch files
 
-### Differences:
-- Player program stderr writes are processed during player's turn (APC).  
-  This is done to prevent the stderr pipe buffer getting exhausted, blocking the player's program, resulting in a time-out.  
-  Player's max move time may decrease significantly when writing large quantities of data to stderr (not recommended anyway)
-
 ### Limitations:
 - Time measurement is done in milliseconds
-
+- Player's program stderr is read from invisible consoles\
+  stderr output size has to be limited (max ~8kB per move) to prevent information loss\
+  \
+  This is a trade-off as Windows sets stderr to full buffered if redireced to anything other\
+  than a FILE_TYPE_CHAR handle (e.g. pipe)\
+  The C99 standard doesn't mandate stderr flushing, so assume external program's don't either\
+  Therefore the firsterror function would fail with pipe redirection
+ 
 ### Bugs:
 - Probably plenty
 - Graceful quit win-caiaio when pressing CTRL-C sort of works, but not always\
   This can leave the manager, referee and / or players programs active in a suspended state\
   You'll have to end them manually in the taskmanager
-- The command console switches to VT terminal mode after win-caiaio has quit\
-  The referee and players are compiled by the CodeCup team for Cygwin\
-  Somehow this leaves the console in the wrong mode when run in a command console\
-  Cursor arrows / Escape keys won't work anymore (are displayed as terminal sequences)
-  - Workaround\
-    Run win-caiaio in a Powershell console
