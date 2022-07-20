@@ -12,8 +12,8 @@ CodeCup caiaio Windows port
   \
   This is a trade-off as Windows sets stderr to full buffered if redireced to anything other\
   than a FILE_TYPE_CHAR handle (e.g. pipe)\
-  The C99 standard doesn't mandate stderr flushing, so assume external program's don't either\
-  Therefore the firsterror function would fail with pipe redirection
+  The C99 standard doesn't mandate stderr flushing, so assume external programs don't either\
+  Therefore the firsterror function would fail if stderr is redirected to a pipe
  
 ### Bugs:
 - Probably plenty
